@@ -31,18 +31,18 @@ body {
   color: #82a70c;
   text-transform: capitalize;
 }
-.name-error{
+error-output{
   font-size: 12px;
   font-style: italic;
   color: red;
   width: 20%;
 }
-.startDate-error{
+/* .startDate-error{
   font-size: 12px;
   font-style: italic;
   color: red;
   width: 20%;
-}
+} */
 .emp-payroll {
   color: #42515f;
 }
